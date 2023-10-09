@@ -15,14 +15,8 @@ http://109.205.166.68/server124/aztv/index.m3u8
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:-1,EL TV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
-#EXTINF:-1,EL TV1
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1,EL TV3
-http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
 #EXTINF:-1,Hadi TV3 (azrbaycanca)1
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
-#EXTINF:-1,Hadi TV3 (azrbaycanca)3
-http://185.236.229.31:9981/play/a04v
 #EXTINF:-1,Ictimai TV1
 http://109.205.166.68/server124/ictimai_tv/index.m3u8
 #EXTINF:-1,Idman TV1
@@ -37,3 +31,15 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 http://109.205.166.68/server124/space_tv/index.m3u8
 #EXTINF:-1,Xzr TV1
 http://109.205.166.68/server124/xazar_tv/index.m3u8
+#EXTINF:-1,ANT AZ
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:-1,APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1,ARB 24
+https://edge02.smart.az/o7/arb24/playlist.m3u8
+#EXTINF:-1,ARB Kepez
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1,ATV AZ
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:-1,CBC TV (AZ)
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
