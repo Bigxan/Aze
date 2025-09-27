@@ -1,45 +1,47 @@
 #EXTM3U
 #EXTINF:-1,Al Zahra TV
 http://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1,Arb TV1
-http://109.205.166.68/server124/arb/index.m3u8
-#EXTINF:-1,Az News TV1
-https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
-#EXTINF:-1,Az News TV2
-https://swow1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
 #EXTINF:-1,Az Star TV
 http://live.livestreamtv.ca/azstar/azstar/playlist.m3u8
-#EXTINF:-1,AzTV1
-http://109.205.166.68/server124/aztv/index.m3u8
-#EXTINF:-1,BAKU TV
-https://rtmp.baku.tv/live/bakutv_720p.m3u8
-#EXTINF:-1,EL TV
-http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 #EXTINF:-1,Hadi TV3 (azrbaycanca)1
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
-#EXTINF:-1,Ictimai TV1
-http://109.205.166.68/server124/ictimai_tv/index.m3u8
-#EXTINF:-1,Idman TV1
-http://109.205.166.68/server124/idman_az/index.m3u8
-#EXTINF:-1,LiveTV Az
-http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
-#EXTINF:-1,Mdniyyt TV1
-http://109.205.166.68/server124/medeniyyet_tv/index.m3u8
-#EXTINF:-1,STAR TV
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1,Space TV1
-http://109.205.166.68/server124/space_tv/index.m3u8
-#EXTINF:-1,Xzr TV1
-http://109.205.166.68/server124/xazar_tv/index.m3u8
-#EXTINF:-1,ANT AZ
-https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
-#EXTINF:-1,APA TV
-http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:-1,ARB 24
-https://edge02.smart.az/o7/arb24/playlist.m3u8
-#EXTINF:-1,ARB Kepez
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1,ATV AZ
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
-#EXTINF:-1,CBC TV (AZ)
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1,ARB 24 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2032.m3u8
+#EXTINF:-1,ARB Gunes HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2033.m3u8
+#EXTINF:-1,ARB TV HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2021.m3u8
+#EXTINF:-1,Space TV
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2034.m3u8
+#EXTINF:-1,Xazar TV
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2041.m3u8
+#EXTINF:-1,ATV Cinema AZ
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2022.m3u8
+#EXTINF:-1,Medeniyyet
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2039.m3u8
+#EXTINF:-1,ATV HD AZ
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2029.m3u8
+#EXTINF:-1,ATV Vivace AZ
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2024.m3u8
+#EXTINF:-1,AzTV
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2043.m3u8
+#EXTINF:-1,Azad TV
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2042.m3u8
+#EXTINF:-1,Baku TV AZ
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2027.m3u8?bw9412677604636
+#EXTINF:-1,CBC AZ
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2044.m3u8
+#EXTINF:-1,CBC
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2038.m3u8
+#EXTINF:-1,Dunya TV AZ
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2035.m3u8
+#EXTINF:-1,Ictimai TV
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2037.m3u8?bw9412677604636
+#EXTINF:-1,KATV1 AZ
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2031.m3u8
+#EXTINF:-1,Muz TV AZ
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2020.m3u8
+#EXTINF:-1,Show Plus TV AZ
+http://tinyurl.com/%74%76%7A%61%74%61%6B43/2025.m3u8
