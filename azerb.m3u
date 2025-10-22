@@ -5,43 +5,33 @@ http://live.al-zahratv.com/live/playlist.m3u8
 http://live.livestreamtv.ca/azstar/azstar/playlist.m3u8
 #EXTINF:-1,Hadi TV3 (azrbaycanca)1
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
-#EXTINF:-1,ATV AZ
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
-#EXTINF:-1,ARB 24 HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2032.m3u8
-#EXTINF:-1,ARB Gunes HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2033.m3u8
-#EXTINF:-1,ARB TV HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2021.m3u8
-#EXTINF:-1,Space TV
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2034.m3u8
-#EXTINF:-1,Xazar TV
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2041.m3u8
-#EXTINF:-1,ATV Cinema AZ
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2022.m3u8
-#EXTINF:-1,Medeniyyet
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2039.m3u8
-#EXTINF:-1,ATV HD AZ
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2029.m3u8
-#EXTINF:-1,ATV Vivace AZ
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2024.m3u8
-#EXTINF:-1,AzTV
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2043.m3u8
-#EXTINF:-1,Azad TV
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2042.m3u8
-#EXTINF:-1,Baku TV AZ
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2027.m3u8?bw9412677604636
-#EXTINF:-1,CBC AZ
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2044.m3u8
+#EXTINF:-1,Arb 24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1,Arb Gunesh
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1,Arb
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
+#EXTINF:-1,Baku TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1,CBC
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2038.m3u8
-#EXTINF:-1,Dunya TV AZ
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2035.m3u8
-#EXTINF:-1,Ictimai TV
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2037.m3u8?bw9412677604636
-#EXTINF:-1,KATV1 AZ
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2031.m3u8
-#EXTINF:-1,Muz TV AZ
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2020.m3u8
-#EXTINF:-1,Show Plus TV AZ
-http://tinyurl.com/%74%76%7A%61%74%61%6B43/2025.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/cbc.m3u8
+#EXTINF:-1,Dunya TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:-1,ictimai TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/ictimai-tv.m3u8
+#EXTINF:-1,Kanal S
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1,Medeniyet TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/medeniyet-tv.m3u8
+#EXTINF:-1,MTV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
+#EXTINF:-1,Real TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/real-tv.m3u8
+#EXTINF:-1,Space TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1,TMB AZ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:-1,TMB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-tv.m3u8
+#EXTINF:-1,Xezer
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/xezer-tv.m3u8
